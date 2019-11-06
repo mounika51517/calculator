@@ -21,13 +21,24 @@
 # Registers:
 
 # File marks:
-'0  25  9  ~/pom.xml
+'0  40  0  ~/src/main/java/com/ravi/cal/RaviCalculator/Calculator.java
+'1  25  9  ~/pom.xml
 
 # Jumplist (newest first):
+-'  40  0  ~/src/main/java/com/ravi/cal/RaviCalculator/Calculator.java
+-'  1  0  ~/src/main/java/com/ravi/cal/RaviCalculator/Calculator.java
+-'  25  9  ~/pom.xml
+-'  1  0  ~/pom.xml
 -'  25  9  ~/pom.xml
 -'  1  0  ~/pom.xml
 
 # History of marks within files (newest to oldest):
+
+> ~/src/main/java/com/ravi/cal/RaviCalculator/Calculator.java
+	"	40	0
+	^	40	1
+	.	40	0
+	+	40	0
 
 > ~/pom.xml
 	"	25	9
